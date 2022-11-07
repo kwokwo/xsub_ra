@@ -1,2 +1,1 @@
-# xray_sub
-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
+# _xub
